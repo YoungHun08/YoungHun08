@@ -5,4 +5,20 @@
 
 <h2 align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=YoungHun08&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungHun08&layout=compact" />
 </h2>
+
+<table align = "center">
+  <tr>
+    <td colspan="2">
+      📫Studying📫
+    </td>
+  </tr>
+  <tr>
+    <td>Language</td>
+    <td><img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=%23F7DF1E">
+        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+    </td>
+  </tr>
+</table>
