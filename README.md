@@ -9,11 +9,9 @@
 </h2>
 
 <table align = "center">
-  <tr>
-    <td colspan="2">
+  <th colspan="2">
       📫Studying📫
-    </td>
-  </tr>
+  </th>
   <tr>
     <td>Language</td>
     <td><img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
